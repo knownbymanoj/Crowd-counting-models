@@ -1,4 +1,7 @@
-# MCNN-pytorch
+# MCNN using pytorch
+The project description can be found in above in Comparison of various CNN-based approaches for Crowd Counting pdf
+
+
 This is an simple and clean implemention of CVPR 2016 paper ["Single-Image Crowd Counting via Multi-Column Convolutional Neural Network."](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
 
 # Installation
